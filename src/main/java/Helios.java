@@ -97,7 +97,7 @@ public class Helios {
 
 
     public static void main(String[] args) throws IOException {
-        Helios helios = new Helios("Poto","Gqul23bAlasNedHAJS");
+        Helios helios = new Helios("name","password");
         helios.logIn();
 
 
